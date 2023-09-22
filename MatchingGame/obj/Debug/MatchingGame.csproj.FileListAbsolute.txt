@@ -1,0 +1,15 @@
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MainWindow.g.cs
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\App.g.cs
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame_MarkupCompile.cache
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame_MarkupCompile.lref
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MainWindow.baml
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame.g.resources
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+D:\31П\Мамонов Роман\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
